@@ -23,3 +23,24 @@ dataset
 
 ## Models
 Please go to this link to download the corresponding models: https://zenodo.org/records/12704642
+
+The uploaded models are organised as below:
+
+```
+root
+  ├──VaTr_pop909_epoch_10.pth         Variation Transformer model trained on the POP909-TVar dataset for 10 epochs
+  │    
+  ├──VaTr_vgmidi_epoch_10.pth         Variation Transformer model trained on the VGMIDI-TVar dataset for 10 epochs
+  │    
+  ├──MuTr_pop909_epoch_10.pth         Music Transformer model trained on the POP909-TVar dataset for 10 epochs
+  │       
+  ├──MuTr_vgmidi_epoch_10.pth         Music Transformer model trained on the VGMIDI-TVar dataset for 10 epochs
+  │    
+  ├──FaTr_pop909_epoch_10.pth         fast-Transformer model trained on the POP909-TVar dataset for 10 epochs
+  │    
+  ├──FaTr_vgmidi_epoch_10.pth         fast-Transformer model trained on the VGMIDI-TVar dataset for 10 epochs
+  │   
+  ├──MAMA_pop909.zip                  state transition matrix extracted from the POP909-TVar dataset for Variation Markov 
+  │ 
+  └──MAMA_vgmidi.zip                  state transition matrix extracted from the VGMIDI-TVar dataset for Variation Markov
+```
