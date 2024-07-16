@@ -44,3 +44,15 @@ root
   │ 
   └──MAMA_vgmidi.zip                  state transition matrix extracted from the VGMIDI-TVar dataset for Variation Markov
 ```
+
+## Citing this Work
+If you use our method or datasets in your research, please cite:
+```
+@inproceedings{gao2024variation,
+  title={{Variation Transformer}: New datasets, models, and comparative evaluation for symbolic music variation generation},
+  author={Chenyu Gao, Federico Reuben, and Tom Collins},
+  booktitle={the 25th International Society for Music Information Retrieval Conference},
+  year={2024}
+}
+```
+
