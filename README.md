@@ -1,5 +1,7 @@
 # Variation-Transformer-Data-and-Model
-This repository contains the datasets and models to reproduce the results of the paper: Gao et al., Variation Transformer: New datasets, models, and comparative evaluation for symbolic music variation generation, in ISMIR 2024.
+This repository contains the datasets and models to reproduce the results of the paper: Gao et al., Variation Transformer: New datasets, models, and comparative evaluation for symbolic music variation generation, in _ISMIR_ 2024.
+
+For more details on variation generation models and theme-and-variation extraction algorithm, see [this repo](https://github.com/ChenyuGAO-CS/Variation-Transformer).
 
 ## POP909-TVar and VGMIDI-TVar datasets
 The POP909-TVar and VGMIDI-TVar datasets can be accessed in the ```'dataset'``` folder as .zip files.
